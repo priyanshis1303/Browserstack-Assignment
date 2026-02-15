@@ -17,7 +17,7 @@ The solution extracts real articles from the **El País Opinion** section, proce
 * Prints:
 
   * Spanish title
-  * Article content preview
+  * Article content
 
 ### 2. Image Handling
 
